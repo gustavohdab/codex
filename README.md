@@ -8,7 +8,8 @@
 <br>
 
 <p align="center">
-  <img alt="img" src="./.github/preview.gif" width="80%">
+
+  ![OpenAi_CodeX](https://user-images.githubusercontent.com/112674398/209586355-26a4b1f6-9a2f-4977-b0a2-e3540d4e7120.jpg)
 </p>
 
 ## 🚀 Tecnologias
